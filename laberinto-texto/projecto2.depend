@@ -1,0 +1,400 @@
+# depslib dependency file v1.0
+1750976736 source:c:\users\pa_bl\onedrive\desktop\allegro\graficos allegro\laberinto-texto\allegro_funtions.cpp
+
+1750962466 source:c:\users\pa_bl\onedrive\desktop\allegro\graficos allegro\laberinto-texto\allegromanager.cpp
+	"AllegroManager.h"
+
+1750961533 c:\users\pa_bl\onedrive\desktop\allegro\graficos allegro\laberinto-texto\allegromanager.h
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_ttf.h>
+	<iostream>
+
+1750874418 c:\libs\allegro\include\allegro5\allegro.h
+	"allegro5/base.h"
+	"allegro5/altime.h"
+	"allegro5/bitmap.h"
+	"allegro5/bitmap_draw.h"
+	"allegro5/bitmap_io.h"
+	"allegro5/bitmap_lock.h"
+	"allegro5/blender.h"
+	"allegro5/clipboard.h"
+	"allegro5/color.h"
+	"allegro5/config.h"
+	"allegro5/cpu.h"
+	"allegro5/debug.h"
+	"allegro5/display.h"
+	"allegro5/drawing.h"
+	"allegro5/error.h"
+	"allegro5/events.h"
+	"allegro5/file.h"
+	"allegro5/fixed.h"
+	"allegro5/fmaths.h"
+	"allegro5/fshook.h"
+	"allegro5/fullscreen_mode.h"
+	"allegro5/haptic.h"
+	"allegro5/joystick.h"
+	"allegro5/keyboard.h"
+	"allegro5/memory.h"
+	"allegro5/monitor.h"
+	"allegro5/mouse.h"
+	"allegro5/mouse_cursor.h"
+	"allegro5/path.h"
+	"allegro5/render_state.h"
+	"allegro5/shader.h"
+	"allegro5/system.h"
+	"allegro5/threads.h"
+	"allegro5/timer.h"
+	"allegro5/tls.h"
+	"allegro5/touch_input.h"
+	"allegro5/transformations.h"
+	"allegro5/utf8.h"
+	"allegro5/alcompat.h"
+
+1750874418 c:\libs\allegro\include\allegro5\base.h
+	<errno.h>
+	<limits.h>
+	<limits.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<sys/types.h>
+	<fortify/fortify.h>
+	<dmalloc.h>
+	"allegro5/internal/alconfig.h"
+
+1750874418 c:\libs\allegro\include\allegro5\internal\alconfig.h
+	"allegro5/platform/alplatf.h"
+	"allegro5/platform/alwatcom.h"
+	"allegro5/platform/almngw32.h"
+	"allegro5/platform/albcc32.h"
+	"allegro5/platform/almsvc.h"
+	"allegro5/platform/aliphonecfg.h"
+	"allegro5/platform/alosxcfg.h"
+	"allegro5/platform/alandroidcfg.h"
+	"allegro5/platform/alraspberrypicfg.h"
+	"allegro5/platform/alucfg.h"
+	"allegro5/platform/allegro_sdl_config.h"
+	"allegro5/platform/astdint.h"
+	"allegro5/platform/astdbool.h"
+
+1750874418 c:\libs\allegro\include\allegro5\platform\alplatf.h
+
+1750874418 c:\libs\allegro\include\allegro5\platform\alwatcom.h
+	<io.h>
+	<i86.h>
+	<conio.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+
+1750874418 c:\libs\allegro\include\allegro5\platform\almngw32.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+	"allegro5/platform/alplatf.h"
+
+1750874418 c:\libs\allegro\include\allegro5\platform\albcc32.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+
+1750874418 c:\libs\allegro\include\allegro5\platform\almsvc.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+	"allegro5/platform/alplatf.h"
+
+1750874418 c:\libs\allegro\include\allegro5\platform\aliphonecfg.h
+	<fcntl.h>
+	<unistd.h>
+
+1750874418 c:\libs\allegro\include\allegro5\platform\alosxcfg.h
+	"allegro5/platform/alplatf.h"
+
+1750874418 c:\libs\allegro\include\allegro5\platform\alandroidcfg.h
+
+1750874418 c:\libs\allegro\include\allegro5\platform\alraspberrypicfg.h
+	<fcntl.h>
+	<unistd.h>
+	<sys/types.h>
+
+1750874418 c:\libs\allegro\include\allegro5\platform\alucfg.h
+	<fcntl.h>
+	<unistd.h>
+	"alunix.h"
+	"allegro5/platform/alplatf.h"
+
+1750874418 c:\libs\allegro\include\allegro5\platform\alunix.h
+
+1750874418 c:\libs\allegro\include\allegro5\platform\allegro_sdl_config.h
+	<fcntl.h>
+	<unistd.h>
+
+1750874418 c:\libs\allegro\include\allegro5\platform\astdint.h
+	<inttypes.h>
+	<stdint.h>
+	<limits.h>
+
+1750874418 c:\libs\allegro\include\allegro5\platform\astdbool.h
+	<stdbool.h>
+
+1750874418 c:\libs\allegro\include\allegro5\altime.h
+	"allegro5/base.h"
+
+1750874418 c:\libs\allegro\include\allegro5\bitmap.h
+	"allegro5/color.h"
+
+1750874418 c:\libs\allegro\include\allegro5\color.h
+	"allegro5/base.h"
+
+1750874418 c:\libs\allegro\include\allegro5\bitmap_draw.h
+	"allegro5/bitmap.h"
+
+1750874418 c:\libs\allegro\include\allegro5\bitmap_io.h
+	"allegro5/bitmap.h"
+	"allegro5/file.h"
+
+1750874418 c:\libs\allegro\include\allegro5\file.h
+	"allegro5/base.h"
+	"allegro5/path.h"
+	"allegro5/utf8.h"
+
+1750874418 c:\libs\allegro\include\allegro5\path.h
+	"allegro5/base.h"
+	"allegro5/utf8.h"
+
+1750874418 c:\libs\allegro\include\allegro5\utf8.h
+	"allegro5/base.h"
+
+1750874418 c:\libs\allegro\include\allegro5\bitmap_lock.h
+	"allegro5/bitmap.h"
+
+1750874418 c:\libs\allegro\include\allegro5\blender.h
+	"allegro5/base.h"
+	"allegro5/color.h"
+
+1750874418 c:\libs\allegro\include\allegro5\clipboard.h
+	"allegro5/base.h"
+	"allegro5/display.h"
+	"allegro5/utf8.h"
+
+1750874418 c:\libs\allegro\include\allegro5\display.h
+	"allegro5/bitmap.h"
+	"allegro5/color.h"
+	"allegro5/events.h"
+
+1750874418 c:\libs\allegro\include\allegro5\events.h
+	"allegro5/altime.h"
+
+1750874418 c:\libs\allegro\include\allegro5\config.h
+	"allegro5/file.h"
+
+1750874418 c:\libs\allegro\include\allegro5\cpu.h
+	"allegro5/base.h"
+
+1750874418 c:\libs\allegro\include\allegro5\debug.h
+	<assert.h>
+	"allegro5/base.h"
+
+1750874418 c:\libs\allegro\include\allegro5\drawing.h
+	"allegro5/color.h"
+
+1750874418 c:\libs\allegro\include\allegro5\error.h
+	"allegro5/base.h"
+
+1750874418 c:\libs\allegro\include\allegro5\fixed.h
+	"allegro5/base.h"
+
+1750874418 c:\libs\allegro\include\allegro5\fmaths.h
+	"allegro5/base.h"
+	"allegro5/fixed.h"
+	"allegro5/inline/fmaths.inl"
+
+1750874418 c:\libs\allegro\include\allegro5\inline\fmaths.inl
+	"allegro5/error.h"
+
+1750874418 c:\libs\allegro\include\allegro5\fshook.h
+	"allegro5/base.h"
+	"allegro5/file.h"
+	"allegro5/path.h"
+	<sys/types.h>
+
+1750874418 c:\libs\allegro\include\allegro5\fullscreen_mode.h
+	"allegro5/base.h"
+
+1750874418 c:\libs\allegro\include\allegro5\haptic.h
+	"allegro5/base.h"
+	"allegro5/display.h"
+	"allegro5/events.h"
+	"allegro5/joystick.h"
+	"allegro5/keyboard.h"
+	"allegro5/mouse.h"
+	"allegro5/touch_input.h"
+
+1750874418 c:\libs\allegro\include\allegro5\joystick.h
+	"allegro5/base.h"
+	"allegro5/events.h"
+
+1750874418 c:\libs\allegro\include\allegro5\keyboard.h
+	"allegro5/base.h"
+	"allegro5/events.h"
+	"allegro5/keycodes.h"
+
+1750874418 c:\libs\allegro\include\allegro5\keycodes.h
+
+1750874418 c:\libs\allegro\include\allegro5\mouse.h
+	"allegro5/base.h"
+	"allegro5/events.h"
+
+1750874418 c:\libs\allegro\include\allegro5\touch_input.h
+	"allegro5/base.h"
+	"allegro5/events.h"
+
+1750874418 c:\libs\allegro\include\allegro5\memory.h
+	"allegro5/base.h"
+
+1750874418 c:\libs\allegro\include\allegro5\monitor.h
+	"allegro5/base.h"
+
+1750874418 c:\libs\allegro\include\allegro5\mouse_cursor.h
+	"allegro5/base.h"
+
+1750874418 c:\libs\allegro\include\allegro5\render_state.h
+	"allegro5/base.h"
+
+1750874418 c:\libs\allegro\include\allegro5\shader.h
+	"allegro5/base.h"
+	"allegro5/transformations.h"
+
+1750874418 c:\libs\allegro\include\allegro5\transformations.h
+	"allegro5/display.h"
+
+1750874418 c:\libs\allegro\include\allegro5\system.h
+	"allegro5/config.h"
+	"allegro5/path.h"
+
+1750874418 c:\libs\allegro\include\allegro5\threads.h
+	"allegro5/altime.h"
+
+1750874418 c:\libs\allegro\include\allegro5\timer.h
+	"allegro5/base.h"
+	"allegro5/events.h"
+
+1750874418 c:\libs\allegro\include\allegro5\tls.h
+	"allegro5/base.h"
+
+1750874418 c:\libs\allegro\include\allegro5\alcompat.h
+
+1750874418 c:\libs\allegro\include\allegro5\allegro_image.h
+	"allegro5/base.h"
+
+1750874418 c:\libs\allegro\include\allegro5\allegro_font.h
+	"allegro5/allegro.h"
+
+1750874418 c:\libs\allegro\include\allegro5\allegro_primitives.h
+	<allegro5/allegro.h>
+
+1750874418 c:\libs\allegro\include\allegro5\allegro_ttf.h
+	"allegro5/allegro.h"
+	"allegro5/allegro_font.h"
+
+1750975890 source:c:\users\pa_bl\onedrive\desktop\allegro\graficos allegro\laberinto-texto\dragon.cpp
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	"jugador.h"
+	"dragon.h"
+
+1750969333 c:\users\pa_bl\onedrive\desktop\allegro\graficos allegro\laberinto-texto\jugador.h
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	"allegroManager.h"
+
+1750974265 c:\users\pa_bl\onedrive\desktop\allegro\graficos allegro\laberinto-texto\dragon.h
+	<iostream>
+	"jugador.h"
+	"allegroManager.h"
+
+1750976344 source:c:\users\pa_bl\onedrive\desktop\allegro\graficos allegro\laberinto-texto\funciones_juego.cpp
+	"funciones_juego.h"
+	"allegroManager.h"
+	<fstream>
+
+1750977120 c:\users\pa_bl\onedrive\desktop\allegro\graficos allegro\laberinto-texto\funciones_juego.h
+	"dragon.h"
+	"gnomo.h"
+	"jugador.h"
+	"tesoro.h"
+	"laberinto.h"
+	"allegroManager.h"
+	<iostream>
+	<cstdio>
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_native_dialog.h>
+
+1750977454 c:\users\pa_bl\onedrive\desktop\allegro\graficos allegro\laberinto-texto\gnomo.h
+	<iostream>
+	<fstream>
+	<string>
+	<cstdlib>
+	<ctime>
+	<vector>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_primitives.h>
+
+1750971614 c:\users\pa_bl\onedrive\desktop\allegro\graficos allegro\laberinto-texto\tesoro.h
+
+1750971909 c:\users\pa_bl\onedrive\desktop\allegro\graficos allegro\laberinto-texto\laberinto.h
+	"dragon.h"
+	"gnomo.h"
+	"jugador.h"
+	"tesoro.h"
+	"allegroManager.h"
+
+1750874418 c:\libs\allegro\include\allegro5\allegro_native_dialog.h
+	"allegro5/allegro.h"
+
+1750979177 source:c:\users\pa_bl\onedrive\desktop\allegro\graficos allegro\laberinto-texto\gnomo.cpp
+	"gnomo.h"
+	<algorithm>
+	<random>
+	<fstream>
+	<set>
+	"laberinto.h"
+	"allegroManager.h"
+
+1750975290 source:c:\users\pa_bl\onedrive\desktop\allegro\graficos allegro\laberinto-texto\jugador.cpp
+	"jugador.h"
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_image.h>
+	<cstdio>
+
+1750969547 source:c:\users\pa_bl\onedrive\desktop\allegro\graficos allegro\laberinto-texto\laberinto.cpp
+	"laberinto.h"
+	<ctime>
+
+1750980439 source:c:\users\pa_bl\onedrive\desktop\allegro\graficos allegro\laberinto-texto\main.cpp
+	<cstdio>
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_image.h>
+	"AllegroManager.h"
+	"funciones_juego.h"
+
+1750976730 c:\users\pa_bl\onedrive\desktop\allegro\graficos allegro\laberinto-texto\allegro_functions.h
+
+1750971909 source:c:\users\pa_bl\onedrive\desktop\allegro\graficos allegro\laberinto-texto\tesoro.cpp
+	"Tesoro.h"
+

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="projecto1" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/projecto1" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/projecto1" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+			<Add directory="C:/libs/allegro/include" />
+		</Compiler>
+		<Linker>
+			<Add option="-lallegro" />
+			<Add option="-lallegro_main" />
+			<Add option="-lallegro_image" />
+			<Add option="-lallegro_font" />
+			<Add option="-lallegro_ttf" />
+			<Add option="-lallegro_primitives" />
+			<Add option="-lallegro_audio" />
+			<Add option="-lallegro_acodec" />
+			<Add directory="C:/libs/allegro/lib" />
+		</Linker>
+		<Unit filename="AllegroManager.cpp" />
+		<Unit filename="Dragon.cpp" />
+		<Unit filename="Funciones_juego.cpp" />
+		<Unit filename="Gnomo.cpp" />
+		<Unit filename="Jugador.cpp" />
+		<Unit filename="Tesoro.cpp" />
+		<Unit filename="allegroManager.h" />
+		<Unit filename="dragon.h" />
+		<Unit filename="funciones_juego.h" />
+		<Unit filename="gnomo.h" />
+		<Unit filename="jugador.h" />
+		<Unit filename="laberinto.cpp" />
+		<Unit filename="laberinto.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="tesoro.h" />
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
